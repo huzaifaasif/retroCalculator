@@ -3,7 +3,7 @@
 //  retroCalc-finalAttempt
 //
 
-//  Copyright © 2017 Huzaifa Asif. All rights reserved.
+
 //
 
 import UIKit
